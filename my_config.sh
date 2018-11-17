@@ -4,7 +4,7 @@
 #     Mandatory configuration     #
 ###################################
 
-PATH_LIBFT=$EFT_PATH_/libft
+PATH_LIBFT="$EFT_PATH_/libft"
 
 ###################################
 #     Optionnal configuration     #
